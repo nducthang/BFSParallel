@@ -1,0 +1,3 @@
+﻿  main.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  BFS_OPENMP.vcxproj -> D:\Document HUST\2019-1\Xemina 2\code\BFS_OPENMP\Debug\BFS_OPENMP.exe
